@@ -10,7 +10,7 @@ export interface Pages {
 
 const pages: Pages = {
   home: {
-    title: 'John Doe',
+    title: 'MR Visuals',
     description:
       'theBag is a multipurpose template made by Nextjs and MUI v5 which can be used for Portfolios, Resumes, CVs, and Personal websites.',
   },
@@ -20,7 +20,7 @@ const pages: Pages = {
       'You can see all my projects as a designer and photographer in this page.',
   },
   hireMe: {
-    title: 'Hire me',
+    title: 'Hire Us',
     description:
       'I am available as freelancer to do your projects, fill the form to contact to me.',
   },

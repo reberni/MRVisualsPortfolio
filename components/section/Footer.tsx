@@ -71,9 +71,6 @@ const Footer: React.FunctionComponent<FooterProps> = (props) => {
           <TwitterIconLink />
         </CardContent>
       </CustomCard>
-      <Typography component="p" variant="body1" textAlign="center">
-        Made with ❤️ at <TextLink href="https://mopeim.com">mopeim</TextLink>
-      </Typography>
     </>
   );
 };

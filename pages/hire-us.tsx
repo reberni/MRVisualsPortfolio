@@ -49,7 +49,7 @@ const HireMe: NextPage = (props) => {
               }}
             >
               <Typography component="h2" variant="h4">
-                What can I do for you?
+                What can we do for you?
               </Typography>
               <Typography component="p" variant="body1">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui,

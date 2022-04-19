@@ -20,13 +20,13 @@ const HomeHero: React.FunctionComponent<HomeHeroProps> = (props) => {
   return (
     <CenterBox flexDirection="column">
       <Typography component="p" variant="h5" color="text.secondary">
-        Hello, I&apos;m
+        Hello, we are
       </Typography>
       <Typography component="h1" variant="h2" fontWeight="bold">
-        John Doe
+        MRVISUALS
       </Typography>
       <Box color="text.secondary">
-        <TypingEffect staticText="I am" text={['photographer', 'designer']} />
+        <TypingEffect staticText="We are" text={['photographer.', 'designer.']} />
       </Box>
       <ScrollDown
         color={info.main}

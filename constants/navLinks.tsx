@@ -55,9 +55,9 @@ const navLinks: NavLink[] = [
   },
   {
     buttonProps: { color: 'info', variant: 'outlined' },
-    href: '/hire-me',
+    href: '/hire-us',
     Icon: <WorkIcon color="inherit" fontSize="inherit" />,
-    label: 'Hire Me',
+    label: 'Hire Us',
     order: 4,
     sidebarOrder: 3,
     sidebarVisible: true,
