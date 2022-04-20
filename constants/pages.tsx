@@ -17,9 +17,9 @@ const pages: Pages = {
   projects: {
     title: 'Projects',
     description:
-      'You can see all my projects as a designer and photographer in this page.',
+      'You can see all our projects as a filmer and photographer in this page.',
   },
-  hireMe: {
+  hireUs: {
     title: 'Hire Us',
     description:
       'I am available as freelancer to do your projects, fill the form to contact to me.',

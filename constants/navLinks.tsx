@@ -48,7 +48,7 @@ const navLinks: NavLink[] = [
     buttonProps: { color: 'info', variant: 'contained' },
     href: '/projects',
     Icon: <WorkspacesIcon color="inherit" fontSize="inherit" />,
-    label: 'My Projects',
+    label: 'Projects',
     order: 5,
     sidebarOrder: 1,
     sidebarVisible: true,

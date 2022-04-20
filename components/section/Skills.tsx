@@ -43,14 +43,14 @@ const Skills: React.FunctionComponent<SkillsProps> = (props) => {
         <PhotoshopIcon bgColor="white" textColor="tomato" fontSize="large" />
       ),
       title: 'Photoshop',
-      progressValue: 78,
+      progressValue: 75,
     },
     {
       Icon: (
         <LightroomCCIcon bgColor="white" textColor="tomato" fontSize="large" />
       ),
       title: 'Lightroom',
-      progressValue: 83,
+      progressValue: 90,
     },
     {
       Icon: (
@@ -61,7 +61,7 @@ const Skills: React.FunctionComponent<SkillsProps> = (props) => {
         />
       ),
       title: 'Illustrator',
-      progressValue: 97,
+      progressValue: 15,
     },
   ];
 

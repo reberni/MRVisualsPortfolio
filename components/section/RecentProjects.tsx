@@ -40,7 +40,7 @@ const RecentProjects: React.FunctionComponent<RecentProjectsProps> = (
           marginBottom: '3rem',
         }}
       >
-        My Recent Projects
+        Our Recent Projects
       </Typography>
       <CustomSwiper
         onSwiper={(swiper) => setActiveIndex(swiper.activeIndex)}

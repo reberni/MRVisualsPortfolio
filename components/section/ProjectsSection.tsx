@@ -68,13 +68,13 @@ const ProjectsSection: React.FunctionComponent<ProjectsSectionProps> = (
         textAlign="center"
         marginTop="20%"
       >
-        My Projects
+        Our Projects
       </Typography>
       <Box
         color="text.secondary"
         sx={{ textAlign: 'center', marginTop: '1rem' }}
       >
-        <TypingEffect staticText="as a" text={['photographer', 'designer']} />
+        <TypingEffect staticText="as a" text={['photographer.', 'filmer.']} />
       </Box>
       <Filter onOptionClick={handleFilterOptionClick} options={options} />
       <ContainerGrid
